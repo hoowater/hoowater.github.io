@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://hoowater.github.io/blog/2014/12/26/2014bei-you-xin-sheng-xun-lian-wu-div2ti-jie/</loc>
+    <lastmod>2014-12-26T19:40:01+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://hoowater.github.io/blog/2014/12/19/pei-zhi-octopressguo-cheng-zhong-yu-dao-de-wen-ti/</loc>
     <lastmod>2014-12-19T19:47:54+08:00</lastmod>
     <priority>0.8</priority>
@@ -12,85 +17,121 @@
   </url>
   <url>
     <loc>http://hoowater.github.io/javascripts/libs/bootstrap-3.0.0/components.html</loc>
-    <lastmod>2014-12-20T10:32:04+08:00</lastmod>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://hoowater.github.io/javascripts/libs/bootstrap-3.0.0/css.html</loc>
-    <lastmod>2014-12-20T10:32:04+08:00</lastmod>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://hoowater.github.io/javascripts/libs/bootstrap-3.0.0/customize.html</loc>
-    <lastmod>2014-12-20T10:32:04+08:00</lastmod>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://hoowater.github.io/javascripts/libs/bootstrap-3.0.0/getting-started.html</loc>
-    <lastmod>2014-12-20T10:32:04+08:00</lastmod>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://hoowater.github.io/</loc>
-    <lastmod>2014-12-20T10:32:04+08:00</lastmod>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://hoowater.github.io/javascripts/libs/bootstrap-3.0.0/</loc>
-    <lastmod>2014-12-20T10:32:04+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>http://hoowater.github.io/blog/archives/</loc>
-    <lastmod>2014-12-20T10:32:04+08:00</lastmod>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://hoowater.github.io/acm/poj/poj2405/</loc>
-    <lastmod>2014-12-20T10:32:04+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://hoowater.github.io/acm/hdu/hdu4998/</loc>
-    <lastmod>2014-12-20T10:32:04+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://hoowater.github.io/acm/aoj/aizu2119/</loc>
-    <lastmod>2014-12-20T10:32:04+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://hoowater.github.io/acm/poj/poj2187/</loc>
-    <lastmod>2014-12-20T10:32:04+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://hoowater.github.io/acm/aoj/aizu2117/</loc>
-    <lastmod>2014-12-20T10:32:04+08:00</lastmod>
+    <loc>http://hoowater.github.io/javascripts/libs/bootstrap-3.0.0/</loc>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://hoowater.github.io/acm/hdu/hdu4793/</loc>
-    <lastmod>2014-12-20T10:32:04+08:00</lastmod>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://hoowater.github.io/acm/CF/cf474a/</loc>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://hoowater.github.io/acm/hdu/hdu4986/</loc>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://hoowater.github.io/acm/poj/poj3617/</loc>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://hoowater.github.io/acm/hdu/hdu4998/</loc>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://hoowater.github.io/acm/poj/poj2405/</loc>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://hoowater.github.io/acm/aoj/aizu2117/</loc>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://hoowater.github.io/acm/poj/poj2187/</loc>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://hoowater.github.io/acm/CF/cf498a/</loc>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://hoowater.github.io/acm/aoj/aizu2119/</loc>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://hoowater.github.io/acm/hdu/hdu4813/</loc>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://hoowater.github.io/acm/poj/poj1088/</loc>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://hoowater.github.io/javascripts/libs/bootstrap-3.0.0/javascript.html</loc>
-    <lastmod>2014-12-20T10:32:04+08:00</lastmod>
+    <lastmod>2014-12-27T15:51:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
